@@ -1,0 +1,5 @@
+vbox.watermark {
+    background-repeat: no-repeat;
+	background-image: url("chrome://titlebarCleaner/skin/cleanTitle64.png");
+	background-position: right bottom;
+}

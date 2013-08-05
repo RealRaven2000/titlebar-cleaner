@@ -1,0 +1,5 @@
+<!ENTITY titlebarCleaner.label "Titlebar Cleaner">
+<!ENTITY titlebarCleanerContext.label "Nettoyage de la barre de titre">
+<!ENTITY titlebarCleanerContext.accesskey "N">
+<!ENTITY titlebarCleanerToolbarButton.label "Barre de titre">
+<!ENTITY titlebarCleanerToolbarButton.tooltip "Affiche / Supprime les Onglets de la Barre de Titres">

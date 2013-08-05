@@ -1,0 +1,9 @@
+content   titlebarcleaner   chrome/content/
+skin      titlebarcleaner   classic/1.0   chrome/skin/
+locale    titlebarcleaner   en-US         chrome/locale/en-US/
+locale    titlebarcleaner   de            chrome/locale/de/
+locale    titlebarcleaner   fr            chrome/locale/fr/
+overlay chrome://messenger/content/messenger.xul      chrome://titlebarcleaner/content/titlebarCleaner.xul
+overlay chrome://browser/content/browser.xul          chrome://titlebarcleaner/content/titlebarCleaner.xul
+overlay chrome://navigator/content/navigator.xul      chrome://titlebarcleaner/content/titlebarCleaner.xul
+style	chrome://global/content/customizeToolbar.xul  chrome://titlebarcleaner/skin/overlay.css

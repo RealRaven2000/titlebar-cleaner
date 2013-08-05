@@ -1,0 +1,5 @@
+<!ENTITY titlebarCleaner.label "Titlebar Cleaner">
+<!ENTITY titlebarCleanerContext.label "Bereinigte Titelleiste">
+<!ENTITY titlebarCleanerContext.accesskey "C">
+<!ENTITY titlebarCleanerToolbarButton.label "Titlebar Cleaner">
+<!ENTITY titlebarCleanerToolbarButton.tooltip "Tabs im Titel / in Werkzeugleiste anzeigen">
