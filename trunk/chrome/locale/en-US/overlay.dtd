@@ -1,0 +1,5 @@
+<!ENTITY titlebarCleaner.label "Titlebar Cleaner">
+<!ENTITY titlebarCleanerContext.label "Clean titlebar">
+<!ENTITY titlebarCleanerContext.accesskey "C">
+<!ENTITY titlebarCleanerToolbarButton.label "Titlebar Cleaner">
+<!ENTITY titlebarCleanerToolbarButton.tooltip "Display / hide Thunderbird title bar">

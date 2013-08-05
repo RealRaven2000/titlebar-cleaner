@@ -1,0 +1,20 @@
+
+/* Palette toolbar item */
+#titlebarCleaner_Button
+{
+  list-style-image: url("chrome://titlebarCleaner/skin/cleanTitle-24.png");
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+#titlebarCleaner_Button[checked="true"]
+{
+  -moz-image-region: rect(24px 24px 48px  0px);
+}
+[iconsize="small"] #titlebarCleaner_Button
+{
+  list-style-image: url("chrome://titlebarCleaner/skin/cleanTitle-16.png");
+  -moz-image-region: rect( 0px 16px 16px 0px);
+}
+[iconsize="small"] #titlebarCleaner_Button[checked="true"]
+{
+  -moz-image-region: rect(16px 16px 32px 0px);
+}
