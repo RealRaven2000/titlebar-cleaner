@@ -1,0 +1,1 @@
+A toolbar button to remove the tabs from the Windows titlebar back to their original place. Provides an easy way to undo the changes introduced by Thunderbird 17 or switch between the two modes effortlessly.
